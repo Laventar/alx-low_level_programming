@@ -13,11 +13,10 @@ int main(void)
 	{
 		putchar(n);
 	}
-	while (n <= 90)
+	while (m <= 90)
 	{
 		putchar(m);
 	}
 	putchar('\n');
 	return (0);
-
 }
