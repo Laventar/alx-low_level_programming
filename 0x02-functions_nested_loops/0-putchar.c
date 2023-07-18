@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -Entry point
+ * main - Print _putchar
  *
- * Return: Always 0
+ * Return: 0 Always success
  */
 int main(void)
 {
