@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * is_lower - Print_lowercase_alphabelt
+ * _islower - Print_lowercase_alphabelt
  *@c: The character to be checked
  * Return: 0 Always success
  */
-int is_lower(int c)
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 		return (1);
