@@ -1,0 +1,4 @@
+strcat
+strncat
+strncpy
+strcmp
